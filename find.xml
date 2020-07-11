@@ -1,0 +1,15 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>values.yaml</mask>
+    <mask>terragrunt.hcl</mask>
+    <mask>*.go</mask>
+    <mask>Chart.yaml</mask>
+    <mask>*.html</mask>
+    <mask>*.scss</mask>
+  </component>
+</application>
