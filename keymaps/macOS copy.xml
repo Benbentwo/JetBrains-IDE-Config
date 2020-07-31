@@ -23,4 +23,6 @@
     <keyboard-shortcut first-keystroke="ctrl meta alt down" />
   </action>
   <action id="FileChooser.GotoProject" />
+  <action id="GotoAction" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
