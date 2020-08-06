@@ -10,5 +10,6 @@
     <mask>common.yml</mask>
     <mask>*.py</mask>
     <mask>*.yml</mask>
+    <mask>*markdown*</mask>
   </component>
 </application>
