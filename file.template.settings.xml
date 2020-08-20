@@ -3,9 +3,6 @@
     <default_templates>
       <template name="Skaffold.yaml" reformat="true" live-template-enabled="true" />
     </default_templates>
-    <internal_templates>
-      <template name="Makefile.mk" reformat="true" live-template-enabled="true" enabled="true" />
-    </internal_templates>
     <j2ee_templates>
       <template name="GctAppEngineWeb.xml" reformat="true" live-template-enabled="false" enabled="false" />
     </j2ee_templates>
