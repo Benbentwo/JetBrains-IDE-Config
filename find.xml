@@ -6,7 +6,6 @@
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.go</mask>
     <mask>common.yml</mask>
     <mask>*.py</mask>
     <mask>*.yml</mask>
@@ -14,5 +13,6 @@
     <mask>values.yaml</mask>
     <mask>*confluence*</mask>
     <mask>*.yaml</mask>
+    <mask>*.go</mask>
   </component>
 </application>
