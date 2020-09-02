@@ -5,6 +5,7 @@
       <mapping ext="sum" type="Go" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="file1" type="PLAIN_TEXT" />
+      <mapping pattern="table-exists" type="PLAIN_TEXT" />
       <mapping ext="plist" type="XML" />
       <removed_mapping ext="" approved="true" type="Makefile" />
     </extensionMap>
