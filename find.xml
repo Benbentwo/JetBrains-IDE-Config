@@ -14,5 +14,6 @@
     <mask>*.yaml</mask>
     <mask>*.go</mask>
     <mask>*.py</mask>
+    <mask>Chart.yaml</mask>
   </component>
 </application>
