@@ -2,12 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*Dockerfile*" type="Dockerfile" />
-      <mapping ext="sum" type="Go" />
-      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="file1" type="PLAIN_TEXT" />
       <mapping pattern="table-exists" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping ext="plist" type="XML" />
       <removed_mapping ext="" approved="true" type="Makefile" />
+      <mapping ext="sum" type="Go" />
     </extensionMap>
   </component>
 </application>
