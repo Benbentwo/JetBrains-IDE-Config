@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tf" />
+    <option name="FILE_MASK" value="*.hcl" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -19,5 +19,6 @@
     <mask>*.yaml</mask>
     <mask>*.sql</mask>
     <mask>*.tf</mask>
+    <mask>*.hcl</mask>
   </component>
 </application>
