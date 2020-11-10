@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.go" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -11,7 +12,6 @@
     <mask>*markdown*</mask>
     <mask>values.yaml</mask>
     <mask>*confluence*</mask>
-    <mask>*.go</mask>
     <mask>*.py</mask>
     <mask>Chart.yaml</mask>
     <mask>*.md</mask>
@@ -19,5 +19,6 @@
     <mask>*.sql</mask>
     <mask>*.hcl</mask>
     <mask>*.tf</mask>
+    <mask>*.go</mask>
   </component>
 </application>
