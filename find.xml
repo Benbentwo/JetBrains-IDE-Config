@@ -13,7 +13,6 @@
     <mask>*markdown*</mask>
     <mask>values.yaml</mask>
     <mask>*confluence*</mask>
-    <mask>*.py</mask>
     <mask>Chart.yaml</mask>
     <mask>*.md</mask>
     <mask>*.yaml</mask>
@@ -22,5 +21,6 @@
     <mask>outputs.tf</mask>
     <mask>*.tf</mask>
     <mask>*.hcl</mask>
+    <mask>*.py</mask>
   </component>
 </application>
