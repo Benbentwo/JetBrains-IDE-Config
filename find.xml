@@ -13,13 +13,14 @@
     <mask>*confluence*</mask>
     <mask>Chart.yaml</mask>
     <mask>*.md</mask>
-    <mask>*.go</mask>
     <mask>outputs.tf</mask>
     <mask>*.hcl</mask>
     <mask>*.py</mask>
     <mask>*deploy*</mask>
     <mask>*.tf</mask>
     <mask>*.sql</mask>
+    <mask>namespace.yaml</mask>
+    <mask>*.go</mask>
     <mask>*.yaml</mask>
   </component>
 </application>

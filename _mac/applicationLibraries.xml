@@ -960,427 +960,39 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 3.7 interpreter library">
+    <library name="Python 2.7 (infra-vault) interpreter library">
       <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/dev/src/github.com/verygood-ops/infra-vault/.venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-783336948" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/dev/src/github.com/verygood-ops/infra-vault/.venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-783336948" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 3.7 interpreter library">
-      <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 interpreter library">
-      <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 interpreter library">
-      <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 interpreter library">
-      <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 interpreter library">
-      <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 interpreter library">
-      <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 interpreter library">
-      <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 interpreter library">
-      <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 interpreter library">
-      <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 interpreter library">
-      <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 interpreter library">
-      <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 interpreter library">
-      <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 interpreter library">
-      <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 interpreter library">
+    <library name="Python 3.7 (2) interpreter library">
       <CLASSES>
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
@@ -1388,7 +1000,17 @@
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/vgscatalog-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jsonschema-3.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml-0.16.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt_subcommands-4.0.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/GitPython-3.1.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pyrsistent-0.17.3-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml.clib-0.2.2-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="jar:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt-0.6.2-py3.7.egg!/" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/gitdb-4.0.5-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/smmap-3.0.4-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-923448878" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
@@ -1403,6 +1025,202 @@
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/vgscatalog-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jsonschema-3.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml-0.16.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt_subcommands-4.0.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/GitPython-3.1.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pyrsistent-0.17.3-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml.clib-0.2.2-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="jar:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt-0.6.2-py3.7.egg!/" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/gitdb-4.0.5-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/smmap-3.0.4-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-923448878" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 (2) interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/vgscatalog-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jsonschema-3.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml-0.16.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt_subcommands-4.0.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/GitPython-3.1.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pyrsistent-0.17.3-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml.clib-0.2.2-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="jar:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt-0.6.2-py3.7.egg!/" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/gitdb-4.0.5-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/smmap-3.0.4-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-923448878" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/vgscatalog-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jsonschema-3.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml-0.16.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt_subcommands-4.0.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/GitPython-3.1.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pyrsistent-0.17.3-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml.clib-0.2.2-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="jar:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt-0.6.2-py3.7.egg!/" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/gitdb-4.0.5-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/smmap-3.0.4-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-923448878" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 (2) interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/vgscatalog-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jsonschema-3.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml-0.16.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt_subcommands-4.0.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/GitPython-3.1.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pyrsistent-0.17.3-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml.clib-0.2.2-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="jar:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt-0.6.2-py3.7.egg!/" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/gitdb-4.0.5-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/smmap-3.0.4-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-923448878" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/vgscatalog-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jsonschema-3.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml-0.16.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt_subcommands-4.0.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/GitPython-3.1.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pyrsistent-0.17.3-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml.clib-0.2.2-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="jar:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt-0.6.2-py3.7.egg!/" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/gitdb-4.0.5-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/smmap-3.0.4-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-923448878" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 (2) interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/vgscatalog-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jsonschema-3.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml-0.16.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt_subcommands-4.0.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/GitPython-3.1.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pyrsistent-0.17.3-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml.clib-0.2.2-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="jar:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt-0.6.2-py3.7.egg!/" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/gitdb-4.0.5-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/smmap-3.0.4-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-923448878" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/vgscatalog-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jsonschema-3.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml-0.16.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt_subcommands-4.0.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/GitPython-3.1.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pyrsistent-0.17.3-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml.clib-0.2.2-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="jar:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt-0.6.2-py3.7.egg!/" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/gitdb-4.0.5-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/smmap-3.0.4-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-923448878" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
@@ -1419,7 +1237,6 @@
         <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
@@ -1434,7 +1251,6 @@
         <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
@@ -1451,7 +1267,6 @@
         <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
@@ -1466,7 +1281,6 @@
         <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
@@ -1483,7 +1297,6 @@
         <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
@@ -1498,7 +1311,6 @@
         <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
@@ -1515,7 +1327,6 @@
         <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
@@ -1530,7 +1341,6 @@
         <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
@@ -1547,7 +1357,6 @@
         <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
@@ -1562,7 +1371,6 @@
         <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
@@ -1579,7 +1387,6 @@
         <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
@@ -1594,7 +1401,6 @@
         <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
@@ -1611,7 +1417,6 @@
         <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
@@ -1626,7 +1431,186 @@
         <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
@@ -2587,6 +2571,314 @@
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/vgscatalog-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jsonschema-3.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml-0.16.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt_subcommands-4.0.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/GitPython-3.1.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pyrsistent-0.17.3-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml.clib-0.2.2-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="jar:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt-0.6.2-py3.7.egg!/" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/gitdb-4.0.5-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/smmap-3.0.4-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/google_cl-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/blessclient-0.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/vgscatalog-0.0.1-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jsonschema-3.2.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml-0.16.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt_subcommands-4.0.0-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/GitPython-3.1.12-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pyrsistent-0.17.3-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ruamel.yaml.clib-0.2.2-py3.7-macosx-10.9-x86_64.egg" />
+        <root url="jar:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/docopt-0.6.2-py3.7.egg!/" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/gitdb-4.0.5-py3.7.egg" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/smmap-3.0.4-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
