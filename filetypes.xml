@@ -10,6 +10,7 @@
       <mapping ext="tt" type="PLAIN_TEXT" />
       <mapping pattern=".bash_personal_preferences" type="Shell Script" />
       <mapping ext="plist" type="XML" />
+      <mapping ext="qrc" type="XML" />
       <mapping ext="bak" type="YAML" />
       <removed_mapping ext="" approved="true" type="Makefile" />
     </extensionMap>
