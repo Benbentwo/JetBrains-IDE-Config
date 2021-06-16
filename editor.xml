@@ -5,6 +5,7 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
+    <option name="SHOW_INSPECTION_WIDGET" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
 </application>
