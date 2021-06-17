@@ -8,6 +8,7 @@
       <mapping pattern="file1" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping ext="tt" type="PLAIN_TEXT" />
+      <mapping ext="planfile" type="PLAIN_TEXT" />
       <mapping pattern=".bash_personal_preferences" type="Shell Script" />
       <mapping ext="plist" type="XML" />
       <mapping ext="qrc" type="XML" />
