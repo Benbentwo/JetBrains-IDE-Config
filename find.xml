@@ -20,9 +20,9 @@
     <mask>namespace.yaml</mask>
     <mask>variables.tf</mask>
     <mask>*.go</mask>
-    <mask>*.tf</mask>
     <mask>*.md</mask>
     <mask>*.yaml</mask>
     <mask>providers.tf</mask>
+    <mask>*.tf</mask>
   </component>
 </application>
