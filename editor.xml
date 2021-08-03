@@ -8,4 +8,8 @@
     <option name="SHOW_INSPECTION_WIDGET" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
