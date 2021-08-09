@@ -24,7 +24,7 @@
     <mask>*.yaml</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
-    <mask>*.css</mask>
     <mask>*.tf</mask>
+    <mask>*.css</mask>
   </component>
 </application>
