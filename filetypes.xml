@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*Dockerfile*" type="Dockerfile" />
       <mapping ext="sum" type="Go" />
+      <mapping pattern="*Makefile*" type="Makefile" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="table-exists" type="PLAIN_TEXT" />
