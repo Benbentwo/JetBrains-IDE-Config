@@ -19,11 +19,11 @@
     <mask>variables.tf</mask>
     <mask>providers.tf</mask>
     <mask>*.scss</mask>
-    <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>*.tf</mask>
     <mask>*.yaml</mask>
     <mask>*.go</mask>
     <mask>*.md</mask>
+    <mask>*.html</mask>
   </component>
 </application>
