@@ -13,6 +13,12 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl meta alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl meta alt down" />
+  </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
 </keymap>
