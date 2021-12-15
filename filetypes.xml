@@ -6,6 +6,7 @@
       <mapping pattern="*Dockerfile*" type="Dockerfile" />
       <mapping ext="sum" type="Go" />
       <mapping pattern="*Makefile*" type="Makefile" />
+      <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="table-exists" type="PLAIN_TEXT" />
