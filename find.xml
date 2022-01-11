@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'GASShooter'" />
-    <option name="defaultScopeName" value="Project 'GASShooter'" />
-    <option name="SEARCH_SCOPE" value="Project 'GASShooter'" />
+    <option name="customScope" value="Project 'Edraith'" />
+    <option name="defaultScopeName" value="Project 'Edraith'" />
+    <option name="SEARCH_SCOPE" value="Project 'Edraith'" />
     <mask>common.yml</mask>
     <mask>*.yml</mask>
     <mask>*markdown*</mask>
