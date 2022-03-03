@@ -13,4 +13,9 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.NewFolder" />
+  <action id="GotoClass" />
+  <action id="NewElementMenu">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
 </keymap>
