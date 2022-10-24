@@ -26,6 +26,7 @@
       <removed_mapping ext="plist" approved="true" type="PLIST" />
       <removed_mapping ext="tt" approved="true" type="T4" />
       <mapping ext="sum" type="Go" />
+      <mapping pattern="*Makefile*" type="Makefile" />
     </extensionMap>
   </component>
 </application>
