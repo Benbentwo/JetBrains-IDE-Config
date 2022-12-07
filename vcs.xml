@@ -6,21 +6,8 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="Benbentwo" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.benbentwo.com" />
-          <option name="userName" value="Benbentwo" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/StarkStudios-io/SurvivalGame.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://6xrers3976.execute-api.us-west-2.amazonaws.com" />
-          <option name="userName" value="benbenwho" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\Unreal Projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
@@ -30,7 +17,6 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
-        <option value="Space.CommitStatus" />
       </list>
     </option>
   </component>
