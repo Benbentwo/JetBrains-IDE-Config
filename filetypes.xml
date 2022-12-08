@@ -10,8 +10,8 @@
       <mapping pattern="aws-accounts" type="AUTO_DETECTED" />
       <mapping pattern="eks-update-kubeconfig" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
-      <mapping pattern="*Dockerfile*" type="Dockerfile" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
+      <mapping pattern="*Dockerfile*" type="Dockerfile" />
       <mapping ext="sum" type="Go" />
       <mapping pattern="*Makefile*" type="Makefile" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
