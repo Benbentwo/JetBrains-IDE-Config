@@ -6,8 +6,10 @@
       <mapping pattern="spacelift-install-atmos" type="AUTO_DETECTED" />
       <mapping pattern="CNAME" type="AUTO_DETECTED" />
       <mapping pattern="tflint-components" type="AUTO_DETECTED" />
+      <mapping pattern="spacelift-write-vars-public" type="AUTO_DETECTED" />
       <mapping pattern="aws-config-sso" type="AUTO_DETECTED" />
       <mapping pattern="failed" type="AUTO_DETECTED" />
+      <mapping pattern="spacelift-tf-workspace-public" type="AUTO_DETECTED" />
       <mapping pattern="remote-state" type="AUTO_DETECTED" />
       <mapping pattern="aws-accounts" type="AUTO_DETECTED" />
       <mapping pattern="eks-update-kubeconfig" type="AUTO_DETECTED" />
