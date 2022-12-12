@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="aws-config-extend-roles" type="AUTO_DETECTED" />
+      <mapping pattern="spacelift-configure-paths" type="AUTO_DETECTED" />
       <mapping pattern="spacelift-install-atmos" type="AUTO_DETECTED" />
       <mapping pattern="CNAME" type="AUTO_DETECTED" />
       <mapping pattern="tflint-components" type="AUTO_DETECTED" />
