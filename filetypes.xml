@@ -32,20 +32,13 @@
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern=".bash_personal_preferences" type="Shell Script" />
       <mapping ext="plist" type="XML" />
-      <mapping ext="qrc" type="XML" />
       <mapping pattern="*.yaml*" type="YAML" />
       <mapping ext="bak" type="YAML" />
       <removed_mapping ext="" approved="true" type="Makefile" />
-      <removed_mapping ext="" approved="true" type="Makefile" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="plist" approved="true" type="PLIST" />
-      <removed_mapping ext="plist" approved="true" type="PLIST" />
-      <removed_mapping ext="tt" approved="true" type="T4" />
       <removed_mapping ext="tt" approved="true" type="T4" />
       <removed_mapping pattern=".dockerignore" approved="true" type="DockerIgnore file" />
-      <removed_mapping pattern=".dockerignore" approved="true" type="DockerIgnore file" />
-      <removed_mapping pattern="Kptfile" approved="true" type="YAML" />
       <removed_mapping pattern="Kptfile" approved="true" type="YAML" />
     </extensionMap>
   </component>
