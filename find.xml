@@ -1,31 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
-    <mask>common.yml</mask>
-    <mask>*.yml</mask>
-    <mask>*markdown*</mask>
-    <mask>values.yaml</mask>
-    <mask>*confluence*</mask>
-    <mask>Chart.yaml</mask>
-    <mask>outputs.tf</mask>
-    <mask>*.hcl</mask>
-    <mask>*.py</mask>
-    <mask>*deploy*</mask>
-    <mask>*.sql</mask>
-    <mask>namespace.yaml</mask>
-    <mask>variables.tf</mask>
-    <mask>providers.tf</mask>
-    <mask>*.scss</mask>
-    <mask>*.md</mask>
-    <mask>*.tf</mask>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.go2</mask>
     <mask>*.sum</mask>
     <mask>*.go</mask>
-    <mask>*.yaml</mask>
   </component>
 </application>

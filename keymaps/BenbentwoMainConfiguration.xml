@@ -1,5 +1,6 @@
-<keymap version="1" name="IntelliJ copy 1" parent="Mac OS X 10.5+">
+<keymap version="1" name="BenbentwoMainConfiguration" parent="Mac OS X 10.5+">
   <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
@@ -7,7 +8,16 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl meta alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl meta alt down" />
+  </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
 </keymap>
