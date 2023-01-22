@@ -10,5 +10,6 @@
     <mask>*.sum</mask>
     <mask>*.go</mask>
     <mask>*.yaml</mask>
+    <mask>*.ini</mask>
   </component>
 </application>
