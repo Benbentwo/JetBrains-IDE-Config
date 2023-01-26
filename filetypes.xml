@@ -16,7 +16,6 @@
       <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="*Dockerfile*" type="Dockerfile" />
-      <mapping pattern="*Makefile*" type="Makefile" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
@@ -39,6 +38,7 @@
       <removed_mapping pattern=".dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping pattern="Kptfile" approved="true" type="YAML" />
       <mapping ext="sum" type="Go" />
+      <mapping pattern="*Makefile*" type="Makefile" />
     </extensionMap>
   </component>
 </application>
