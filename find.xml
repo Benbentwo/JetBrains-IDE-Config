@@ -9,8 +9,8 @@
     <mask>*.go2</mask>
     <mask>*.sum</mask>
     <mask>*.go</mask>
-    <mask>*.yaml</mask>
     <mask>*.ini</mask>
     <mask>component.yaml</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
