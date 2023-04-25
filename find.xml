@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="remote-state.tf" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -12,5 +13,6 @@
     <mask>*.tf</mask>
     <mask>*.ini</mask>
     <mask>*.yaml</mask>
+    <mask>remote-state.tf</mask>
   </component>
 </application>
