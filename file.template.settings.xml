@@ -1,0 +1,7 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Component.yaml.yaml" file-name="component.yaml" reformat="false" live-template-enabled="false" />
+    </default_templates>
+  </component>
+</application>

@@ -5,9 +5,10 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
-  <HCL-Terraform>
-    <option name="PROPERTY_LINE_COMMENTER_CHARACTER" value="1" />
-  </HCL-Terraform>
+  <Markdown>
+    <option name="WRAP_TEXT_IF_LONG" value="false" />
+    <option name="WRAP_TEXT_INSIDE_BLOCKQUOTES" value="false" />
+  </Markdown>
   <codeStyleSettings language="Markdown">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
