@@ -1,45 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="aws-config-extend-roles" type="AUTO_DETECTED" />
-      <mapping pattern="spacelift-configure-paths" type="AUTO_DETECTED" />
-      <mapping pattern="CNAME" type="AUTO_DETECTED" />
-      <mapping pattern="tflint-components" type="AUTO_DETECTED" />
-      <mapping pattern="aws-config-sso" type="AUTO_DETECTED" />
-      <mapping pattern="failed" type="AUTO_DETECTED" />
-      <mapping pattern="remote-state" type="AUTO_DETECTED" />
-      <mapping pattern="eks-update-kubeconfig" type="AUTO_DETECTED" />
-      <mapping pattern="spacelift-install-atmos" type="AUTO_DETECTED" />
-      <mapping pattern="spacelift-write-vars-public" type="AUTO_DETECTED" />
-      <mapping pattern="spacelift-tf-workspace-public" type="AUTO_DETECTED" />
-      <mapping pattern="aws-accounts" type="AUTO_DETECTED" />
-      <mapping pattern="config" type="AUTO_DETECTED" />
-      <mapping pattern="Dockerfile.*" type="Dockerfile" />
-      <mapping pattern="*Dockerfile*" type="Dockerfile" />
-      <mapping pattern="*Makefile*" type="Makefile" />
-      <mapping pattern="asdf" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="table-exists" type="PLAIN_TEXT" />
-      <mapping pattern="credentials" type="PLAIN_TEXT" />
-      <mapping pattern="file1" type="PLAIN_TEXT" />
-      <mapping ext="ovpn" type="PLAIN_TEXT" />
-      <mapping ext="2" type="PLAIN_TEXT" />
-      <mapping ext="tt" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
-      <mapping ext="planfile" type="PLAIN_TEXT" />
-      <mapping ext="tpl" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_personal_preferences" type="Shell Script" />
-      <mapping ext="plist" type="XML" />
-      <mapping pattern="*.yaml*" type="YAML" />
-      <mapping ext="bak" type="YAML" />
-      <removed_mapping ext="" approved="true" type="Makefile" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="plist" approved="true" type="PLIST" />
       <removed_mapping ext="tps" approved="true" type="XML" />
-      <removed_mapping ext="tt" approved="true" type="T4" />
-      <removed_mapping pattern=".dockerignore" approved="true" type="DockerIgnore file" />
-      <removed_mapping pattern="Kptfile" approved="true" type="YAML" />
-      <mapping ext="sum" type="Go" />
     </extensionMap>
   </component>
 </application>
