@@ -1,0 +1,15 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="AngularJS" />
+        <option value="Karma" />
+        <option value="intellij.prettierJS" />
+        <option value="com.intellij.tailwindcss" />
+        <option value="intellij.nextjs" />
+        <option value="tslint" />
+        <option value="org.intellij.plugins.postcss" />
+      </list>
+    </option>
+  </component>
+</application>
