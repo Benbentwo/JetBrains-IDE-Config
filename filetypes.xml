@@ -6,6 +6,7 @@
       <mapping ext="gotmpl" type="Go Template" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="rb" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="XML" />
       <removed_mapping ext="cs" approved="true" type="C#" />
       <removed_mapping ext="inputactions" approved="true" type="JSON" />
       <removed_mapping ext="tps" approved="true" type="XML" />
