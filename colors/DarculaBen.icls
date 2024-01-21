@@ -1,0 +1,20 @@
+<scheme name="DarculaBen" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2022-07-09T07:14:16</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2022.1.2.0.0</property>
+    <property name="modified">2024-01-21T09:26:49</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="10" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <attributes>
+    <option name="ReSharper.CPP_UE4_REFLECTION_SPECIFIER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="e772ff" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
