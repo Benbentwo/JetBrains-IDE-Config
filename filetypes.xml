@@ -1,10 +1,12 @@
 <application>
-  <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+  <component name="FileTypeManager" version="19">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;.DS_Store;.git;.hg;.mypy_cache;.pytest_cache;.ruff_cache;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="Dockerfile*" type="Dockerfile" />
+      <mapping ext="gotmpl" type="Go Template" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="rb" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="XML" />
       <removed_mapping ext="cs" approved="true" type="C#" />
       <removed_mapping ext="inputactions" approved="true" type="JSON" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />

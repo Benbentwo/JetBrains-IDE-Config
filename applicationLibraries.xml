@@ -384,8 +384,8 @@
     </library>
     <library name="Python 3.9 interpreter library">
       <CLASSES>
-        <root url="file:///usr/local/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11" />
-        <root url="file:///usr/local/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python@3.11/3.11.6_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11" />
+        <root url="file:///usr/local/Cellar/python@3.11/3.11.6_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload" />
         <root url="file:///usr/local/lib/python3.11/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2023.1/python_stubs/1437855905" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
@@ -515,8 +515,8 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11" />
-        <root url="file:///usr/local/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python@3.11/3.11.6_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11" />
+        <root url="file:///usr/local/Cellar/python@3.11/3.11.6_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload" />
         <root url="file:///usr/local/lib/python3.11/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2023.1/python_stubs/1437855905" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />

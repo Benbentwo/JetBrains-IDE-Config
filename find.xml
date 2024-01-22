@@ -8,7 +8,8 @@
     <mask>*.xml</mask>
     <mask>*.go2</mask>
     <mask>*.go</mask>
-    <mask>Dockerfile</mask>
-    <mask>*.tf</mask>
+    <mask>post*</mask>
+    <mask>_Defaults.yaml</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
