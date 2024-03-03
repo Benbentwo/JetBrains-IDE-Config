@@ -3,18 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tf" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.go2</mask>
-    <mask>*.go</mask>
-    <mask>post*</mask>
-    <mask>_Defaults.yaml</mask>
-    <mask>*.yaml</mask>
-    <mask>!context.tf</mask>
-    <mask>variables.tf</mask>
-    <mask>main.tf</mask>
-    <mask>*.tf</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
