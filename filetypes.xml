@@ -10,6 +10,7 @@
       <removed_mapping ext="cs" approved="true" type="C#" />
       <removed_mapping ext="inputactions" approved="true" type="JSON" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="plist" approved="true" type="PLIST" />
       <removed_mapping ext="tps" approved="true" type="XML" />
     </extensionMap>
   </component>

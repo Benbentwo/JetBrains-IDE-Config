@@ -13,6 +13,8 @@
     <mask>!context.tf</mask>
     <mask>variables.tf</mask>
     <mask>main.tf</mask>
+    <mask>*.tpl</mask>
+    <mask>*.md</mask>
     <mask>*.tf</mask>
     <mask>*.yaml</mask>
   </component>
