@@ -1,0 +1,15 @@
+<application>
+  <component name="GraziConfig">
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="7001 Portal|7001 Portal API Scalable S3 Bucket Creation" />
+            <option value="7001|7001 Portal API Scalable S3 Bucket Creation" />
+            <option value="allow terraform" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+  </component>
+</application>
