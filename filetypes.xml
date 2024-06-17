@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping ext="gotmpl" type="Go Template" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="rb" type="PLAIN_TEXT" />
       <mapping ext="plist" type="XML" />
