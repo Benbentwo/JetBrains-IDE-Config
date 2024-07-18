@@ -18,5 +18,6 @@
     <mask>looker-sync.yaml</mask>
     <mask>*.yaml</mask>
     <mask>*.tf</mask>
+    <mask>*.mdx</mask>
   </component>
 </application>
