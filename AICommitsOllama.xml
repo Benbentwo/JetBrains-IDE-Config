@@ -1,0 +1,8 @@
+<application>
+  <component name="OllamaClientSharedState">
+    <modelIds>
+      <option value="llama3" />
+      <option value="llama3.1:latest" />
+    </modelIds>
+  </component>
+</application>
