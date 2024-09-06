@@ -21,7 +21,7 @@
     <mask>*.go</mask>
     <mask>readme.md</mask>
     <mask>*.yml</mask>
-    <mask>*.yaml</mask>
     <mask>*.tf</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
