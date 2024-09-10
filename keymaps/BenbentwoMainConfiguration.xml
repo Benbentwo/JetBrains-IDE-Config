@@ -20,4 +20,7 @@
   </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="OpenInlineChatAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
 </keymap>

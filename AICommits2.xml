@@ -1,6 +1,6 @@
 <application>
   <component name="com.github.blarc.ai.commits.intellij.plugin.settings.AppSettings2">
-    <option name="lastVersion" value="2.2.0" />
+    <option name="lastVersion" value="2.3.0" />
     <option name="locale" value="und" />
     <llmClientConfigurations>
       <OllamaClientConfiguration modelId="llama3.1:latest" id="f5f97fa8-caed-4b21-9c49-82bd998e4e33" />
