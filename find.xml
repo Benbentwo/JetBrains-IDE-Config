@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="SMRX-383 AWS Transfer Family" />
-    <option name="defaultScopeName" value="SMRX-383 AWS Transfer Family" />
-    <option name="SEARCH_SCOPE" value="SMRX-383 AWS Transfer Family" />
-    <option name="FILE_MASK" value="*.yaml" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
