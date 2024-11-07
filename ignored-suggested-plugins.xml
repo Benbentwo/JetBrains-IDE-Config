@@ -2,13 +2,9 @@
   <component name="IgnoredPluginSuggestions">
     <option name="pluginIds">
       <list>
-        <option value="AngularJS" />
-        <option value="Karma" />
-        <option value="intellij.prettierJS" />
-        <option value="com.intellij.tailwindcss" />
-        <option value="intellij.nextjs" />
-        <option value="tslint" />
-        <option value="org.intellij.plugins.postcss" />
+        <option value="com.intellij.aqua" />
+        <option value="com.intellij.lang.jsgraphql" />
+        <option value="intellij.vitejs" />
       </list>
     </option>
   </component>
