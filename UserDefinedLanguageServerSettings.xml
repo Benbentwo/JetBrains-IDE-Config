@@ -1,0 +1,103 @@
+<application>
+  <component name="UserDefinedLanguageServerSettingsState">
+    <state>
+      <map>
+        <entry key="60918d20-a30f-40d3-b3bf-2ef5c5502ba9">
+          <value>
+            <UserDefinedLanguageServerItemSettings>
+              <option name="commandLine" value="sh -c gopls -mode=stdio" />
+              <option name="configurationContent" value="{&#13;&#10;&#13;&#10;}" />
+              <option name="initializationOptionsContent" value="{&#13;&#10;  &quot;ui.semanticTokens&quot;: true&#13;&#10;}" />
+              <option name="serverId" value="60918d20-a30f-40d3-b3bf-2ef5c5502ba9" />
+              <option name="serverName" value="Atmos" />
+              <option name="mappings">
+                <ServerMappingSettings languageId="go">
+                  <fileType>
+                    <FileTypeSettings name="Go" />
+                  </fileType>
+                </ServerMappingSettings>
+                <ServerMappingSettings languageId="atmos">
+                  <fileType>
+                    <FileTypeSettings name="YAML" />
+                  </fileType>
+                </ServerMappingSettings>
+                <ServerMappingSettings languageId="go">
+                  <option name="fileNamePatterns">
+                    <list>
+                      <option value="*.go" />
+                    </list>
+                  </option>
+                  <fileType>
+                    <FileTypeSettings>
+                      <option name="patterns">
+                        <option value="*.go" />
+                      </option>
+                    </FileTypeSettings>
+                  </fileType>
+                </ServerMappingSettings>
+                <ServerMappingSettings languageId="go.mod">
+                  <option name="fileNamePatterns">
+                    <list>
+                      <option value="go.mod" />
+                    </list>
+                  </option>
+                  <fileType>
+                    <FileTypeSettings>
+                      <option name="patterns">
+                        <option value="go.mod" />
+                      </option>
+                    </FileTypeSettings>
+                  </fileType>
+                </ServerMappingSettings>
+                <ServerMappingSettings languageId="go.work">
+                  <option name="fileNamePatterns">
+                    <list>
+                      <option value="go.work" />
+                    </list>
+                  </option>
+                  <fileType>
+                    <FileTypeSettings>
+                      <option name="patterns">
+                        <option value="go.work" />
+                      </option>
+                    </FileTypeSettings>
+                  </fileType>
+                </ServerMappingSettings>
+                <ServerMappingSettings languageId="go.sum">
+                  <option name="fileNamePatterns">
+                    <list>
+                      <option value="go.sum" />
+                    </list>
+                  </option>
+                  <fileType>
+                    <FileTypeSettings>
+                      <option name="patterns">
+                        <option value="go.sum" />
+                      </option>
+                    </FileTypeSettings>
+                  </fileType>
+                </ServerMappingSettings>
+                <ServerMappingSettings languageId="gotmpl">
+                  <option name="fileNamePatterns">
+                    <list>
+                      <option value=".tmpl" />
+                      <option value=".gotmpl" />
+                    </list>
+                  </option>
+                  <fileType>
+                    <FileTypeSettings>
+                      <option name="patterns">
+                        <option value=".tmpl" />
+                        <option value=".gotmpl" />
+                      </option>
+                    </FileTypeSettings>
+                  </fileType>
+                </ServerMappingSettings>
+              </option>
+            </UserDefinedLanguageServerItemSettings>
+          </value>
+        </entry>
+      </map>
+    </state>
+  </component>
+</application>
