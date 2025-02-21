@@ -2,23 +2,21 @@
   <component name="UserDefinedLanguageServerSettingsState">
     <state>
       <map>
-        <entry key="60918d20-a30f-40d3-b3bf-2ef5c5502ba9">
+        <entry key="0b6e540e-8b21-47a0-861f-f3daeb6f7862">
           <value>
             <UserDefinedLanguageServerItemSettings>
-              <option name="commandLine" value="sh -c gopls -mode=stdio" />
+              <option name="clientConfigurationContent" value="{&#10;  &quot;caseSensitive&quot;: true,&#10;  &quot;completion&quot;: {&#10;    &quot;useContextAwareSorting&quot;: true,&#10;    &quot;useTemplateForInvocationOnlySnippet&quot;: false&#10;  },&#10;  &quot;workspaceSymbol&quot;: {&#10;    &quot;supportsGotoClass&quot;: true&#10;  }&#10;}" />
+              <option name="commandLine" value="sh -c &quot;/Users/bensmith/dev/src/github.com/cloudposse/atmos/build/atmos lsp&quot;" />
               <option name="configurationContent" value="{&#13;&#10;&#13;&#10;}" />
-              <option name="initializationOptionsContent" value="{&#13;&#10;  &quot;ui.semanticTokens&quot;: true&#13;&#10;}" />
-              <option name="serverId" value="60918d20-a30f-40d3-b3bf-2ef5c5502ba9" />
-              <option name="serverName" value="Atmos" />
+              <option name="configurationSchemaContent" value="" />
+              <option name="initializationOptionsContent" value="{ }" />
+              <option name="serverId" value="0b6e540e-8b21-47a0-861f-f3daeb6f7862" />
+              <option name="serverName" value="Go Language Server" />
+              <option name="templateId" value="gopls" />
               <option name="mappings">
                 <ServerMappingSettings languageId="go">
                   <fileType>
                     <FileTypeSettings name="Go" />
-                  </fileType>
-                </ServerMappingSettings>
-                <ServerMappingSettings languageId="atmos">
-                  <fileType>
-                    <FileTypeSettings name="YAML" />
                   </fileType>
                 </ServerMappingSettings>
                 <ServerMappingSettings languageId="go">
