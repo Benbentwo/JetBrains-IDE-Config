@@ -11,8 +11,13 @@
               <option name="configurationSchemaContent" value="" />
               <option name="initializationOptionsContent" value="{ }" />
               <option name="serverId" value="0b6e540e-8b21-47a0-861f-f3daeb6f7862" />
-              <option name="serverName" value="Go Language Server" />
+              <option name="serverName" value="Atmos" />
               <option name="templateId" value="gopls" />
+              <option name="userEnvironmentVariables">
+                <map>
+                  <entry key="ATMOS_LOG_LEVEL" value="Debug" />
+                </map>
+              </option>
               <option name="mappings">
                 <ServerMappingSettings languageId="go">
                   <fileType>
@@ -87,6 +92,20 @@
                       <option name="patterns">
                         <option value=".tmpl" />
                         <option value=".gotmpl" />
+                      </option>
+                    </FileTypeSettings>
+                  </fileType>
+                </ServerMappingSettings>
+                <ServerMappingSettings languageId="atmos">
+                  <option name="fileNamePatterns">
+                    <list>
+                      <option value="*.yaml" />
+                    </list>
+                  </option>
+                  <fileType>
+                    <FileTypeSettings>
+                      <option name="patterns">
+                        <option value="*.yaml" />
                       </option>
                     </FileTypeSettings>
                   </fileType>
