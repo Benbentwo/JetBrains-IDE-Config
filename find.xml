@@ -21,7 +21,7 @@
     <mask>*.yml</mask>
     <mask>*.tf</mask>
     <mask>version*.tf</mask>
-    <mask>*.go</mask>
     <mask>*.yaml</mask>
+    <mask>*.go</mask>
   </component>
 </application>
