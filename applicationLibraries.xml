@@ -105,6 +105,8 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2025.1/python_stubs/-2066100795" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/setuptools" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
@@ -114,6 +116,8 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/GoLand2025.1/python_stubs/-2066100795" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/setuptools" />
       </SOURCES>
     </library>
   </component>
