@@ -1,5 +1,8 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="sqlite.xerial">
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.40.1" />
+    </driver>
     <driver id="mysql.8">
       <artifact />
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
@@ -9,9 +12,6 @@
     </driver>
     <driver id="redshift">
       <artifact id="Redshift" name="Redshift" use="true" version="2.1.0.13" />
-    </driver>
-    <driver id="sqlite.xerial">
-      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.40.1" />
     </driver>
   </component>
 </application>
