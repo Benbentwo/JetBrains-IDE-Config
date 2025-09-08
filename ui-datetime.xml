@@ -2,5 +2,6 @@
   <component name="DateTimeFormatter">
     <option name="dateFormatPattern" value="yyyy-MM-dd'T'HH:mm:ss.SSSZ" />
     <option name="overrideSystemDateFormat" value="true" />
+    <option name="use24HourTime" value="false" />
   </component>
 </application>
