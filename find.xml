@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.go2</mask>
@@ -23,5 +23,6 @@
     <mask>*.tf</mask>
     <mask>main.tf</mask>
     <mask>*.go</mask>
+    <mask>*.css</mask>
   </component>
 </application>
