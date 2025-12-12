@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tf" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.go2</mask>
@@ -19,9 +20,9 @@
     <mask>*.yml</mask>
     <mask>version*.tf</mask>
     <mask>*.yaml</mask>
-    <mask>*.tf</mask>
     <mask>main.tf</mask>
     <mask>*.go</mask>
     <mask>*.css</mask>
+    <mask>*.tf</mask>
   </component>
 </application>
