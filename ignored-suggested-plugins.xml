@@ -5,6 +5,7 @@
         <option value="com.intellij.aqua" />
         <option value="com.intellij.lang.jsgraphql" />
         <option value="intellij.vitejs" />
+        <option value="IdeaVIM" />
       </list>
     </option>
   </component>
